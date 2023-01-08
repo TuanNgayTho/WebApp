@@ -12,4 +12,3 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('TuanDepTrai')
-# See PyCharm helpgit ch at https://www.jetbrains.com/help/pycharm/
